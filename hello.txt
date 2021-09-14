@@ -1,3 +1,9 @@
 hello world saja
 hello world dengan java
 hello world dengan kotlin
+hello world dengan dart
+hello world dengan swift
+hello world dengan javascript
+hello world dengan pyton
+hello world dengan bahasa c
+hello world dengan bahasa c++
